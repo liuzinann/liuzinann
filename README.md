@@ -8,7 +8,7 @@
 ## 🌐Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-7957B3?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=red)
@@ -18,7 +18,7 @@
 ![VITE](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-4FDAFB?style=for-the-badge&logo=react&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-7957B3?style=for-the-badge&logo=react&logoColor=white)
 ![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-7957B3?style=for-the-badge&logo=react&logoColor=white)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +31,7 @@
 ![FLOWER](https://img.shields.io/badge/FLOWER-DEA584?style=for-the-badge&logo=linuxserver&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![TOMCAT](https://img.shields.io/badge/TOMCAT-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=white)
+![TOMCAT](https://img.shields.io/badge/TOMCAT-7957B3?style=for-the-badge&logo=apache-tomcat&logoColor=white)
 ![CADDY](https://img.shields.io/badge/CADDY-1E2A2F?style=for-the-badge&logo=caddy&logoColor=white)
 ![GUNICORN](https://img.shields.io/badge/GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![UWSGI](https://img.shields.io/badge/UWSGI-00599C?style=for-the-badge&logo=linuxserver&logoColor=white)
@@ -51,10 +51,3 @@
 ![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-4B8B9F?style=for-the-badge&logo=prometheus&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GRPC](https://img.shields.io/badge/GRPC-4479A1?style=for-the-badge&logo=trpc&logoColor=white)
-
-
-
-
-
-
-
