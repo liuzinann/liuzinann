@@ -21,7 +21,7 @@
 ![REACT](https://img.shields.io/badge/REACT-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-1A1A1A?style=for-the-badge&logo=next.js&logoColor=7a0099)
-![MYSQL](https://img.shields.io/badge/MYSQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![MYSQL](https://img.shields.io/badge/MYSQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=8080ff)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MONGODB](https://img.shields.io/badge/MONGODB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![REDIS](https://img.shields.io/badge/REDIS-1A1A1A?style=for-the-badge&logo=redis&logoColor=FF4438)
