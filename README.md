@@ -1,16 +1,60 @@
-## Hi there 👋
+- 👋 Hi, I’m @Liuzilann 💯
+- 👀 I’m interested in conding 🤓
+- 🌱 I’m currently learning Taro 🚀
+- 🏙️ I'm based in Shenzhen,China 📍
+- 📫 How to reach me -- liuwuzilan@gmail.com 👨‍🚀
+- 😄 Pronouns: LL
 
-<!--
-**liuzinann/liuzinann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-1A1A1A?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=ffc61a)
+![GO](https://img.shields.io/badge/GO-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![SHELL](https://img.shields.io/badge/SHELL-1A1A1A?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![AXIOS](https://img.shields.io/badge/AXIOS-1A1A1A?style=for-the-badge&logo=axios&logoColor=5A29E4)
+![SWC](https://img.shields.io/badge/SWC-1A1A1A?style=for-the-badge&logo=swc&logoColor=F8C457)
+![VITE](https://img.shields.io/badge/VITE-1A1A1A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-1A1A1A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![ANT DESIGN](https://img.shields.io/badge/ANT_DESIGN-1A1A1A?style=for-the-badge&logo=antdesign&logoColor=0170FE)
+![REACT](https://img.shields.io/badge/REACT-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/REDUX-1A1A1A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![REACT ROUTER](https://img.shields.io/badge/REACT_ROUTER-1A1A1A?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NEXT.JS](https://img.shields.io/badge/NEXT.JS-1A1A1A?style=for-the-badge&logo=next.js&logoColor=7a0099)
+![MYSQL](https://img.shields.io/badge/MYSQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=8080ff)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MONGODB](https://img.shields.io/badge/MONGODB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![REDIS](https://img.shields.io/badge/REDIS-1A1A1A?style=for-the-badge&logo=redis&logoColor=FF4438)
+![KAFKA](https://img.shields.io/badge/KAFKA-1A1A1A?style=for-the-badge&logo=apache-kafka&logoColor=00e5e6)
+![ETCD](https://img.shields.io/badge/ETCD-1A1A1A?style=for-the-badge&logo=etcd&logoColor=419EDA)
+![CELERY](https://img.shields.io/badge/CELERY-1A1A1A?style=for-the-badge&logo=celery&logoColor=37814A)
+![ELASTICSEARCH](https://img.shields.io/badge/ELASTICSEARCH-1A1A1A?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+![FLOWER](https://img.shields.io/badge/FLOWER-1A1A1A?style=for-the-badge&logo=linuxserver&logoColor=DA3B8A)
+![GIT](https://img.shields.io/badge/GIT-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
+![NGINX](https://img.shields.io/badge/NGINX-1A1A1A?style=for-the-badge&logo=nginx&logoColor=009639)
+![TOMCAT](https://img.shields.io/badge/TOMCAT-1A1A1A?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75)
+![CADDY](https://img.shields.io/badge/CADDY-1A1A1A?style=for-the-badge&logo=caddy&logoColor=1F88C0)
+![GUNICORN](https://img.shields.io/badge/GUNICORN-1A1A1A?style=for-the-badge&logo=gunicorn&logoColor=499848)
+![UWSGI](https://img.shields.io/badge/UWSGI-1A1A1A?style=for-the-badge&logo=linuxserver&logoColor=DA3B8A)
+![UVICORN](https://img.shields.io/badge/UVICORN-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![GIN](https://img.shields.io/badge/GIN-1A1A1A?style=for-the-badge&logo=gin&logoColor=33f8ff)
+![GORM](https://img.shields.io/badge/GORM-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![PyQt](https://img.shields.io/badge/PYQT-1A1A1A?style=for-the-badge&logo=qt&logoColor=41CD52)
+![SCRAPY](https://img.shields.io/badge/SCRAPY-1A1A1A?style=for-the-badge&logo=scrapy&logoColor=60A839)
+![SELENIUM](https://img.shields.io/badge/SELENIUM-1A1A1A?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![DJANGO](https://img.shields.io/badge/DJANGO-1A1A1A?style=for-the-badge&logo=django&logoColor=ff884d)
+![FLASK](https://img.shields.io/badge/FLASK-1A1A1A?style=for-the-badge&logo=flask&logoColor=ff884d)
+![FASTAPI](https://img.shields.io/badge/FASTAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-1A1A1A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![DOCKER](https://img.shields.io/badge/DOCKER-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![ANSIBLE](https://img.shields.io/badge/ANSIBLE-1A1A1A?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![GRAFANA](https://img.shields.io/badge/GRAFANA-1A1A1A?style=for-the-badge&logo=grafana&logoColor=F46800)
+![KIBANA](https://img.shields.io/badge/KIBANA-1A1A1A?style=for-the-badge&logo=kibana&logoColor=005571)
+![LOGSTASH](https://img.shields.io/badge/LOGSTASH-1A1A1A?style=for-the-badge&logo=logstash&logoColor=005571)
+![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-1A1A1A?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![KUBERNETES](https://img.shields.io/badge/KUBERNETES-1A1A1A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GRPC](https://img.shields.io/badge/GRPC-1A1A1A?style=for-the-badge&logo=trpc&logoColor=2596BE)
